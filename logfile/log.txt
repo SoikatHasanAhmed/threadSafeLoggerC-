@@ -1,0 +1,12 @@
+2019-10-03.00:17:06 || [LOG]: i am from thread 1
+2019-10-03.00:17:06 || [LOG]: i am from thread 2
+2019-10-03.00:17:06 || [LOG]: i am from thread 5
+2019-10-03.00:17:06 || [LOG]: i am from thread 4
+2019-10-03.00:17:06 || [LOG]: i am from thread 7
+2019-10-03.00:17:06 || [LOG]: i am from thread 10
+2019-10-03.00:17:06 || [LOG]: i am from thread 3
+2019-10-03.00:17:06 || [LOG]: i am from thread 9
+2019-10-03.00:17:06 || [LOG]: i am from thread 6
+2019-10-03.00:17:06 || [LOG]: i am from thread 8
+2019-10-03.00:17:59 || [LOG]:TEST MESSAGE LOG
+2019-10-03.00:17:59 || [LOG]:Write this to the FILE log

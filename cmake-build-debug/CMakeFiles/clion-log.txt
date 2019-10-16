@@ -1,0 +1,4 @@
+/home/soikat/Downloads/Compressed/clion-2019.2.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/soikat/CLionProjects/Logger
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/soikat/CLionProjects/Logger/cmake-build-debug

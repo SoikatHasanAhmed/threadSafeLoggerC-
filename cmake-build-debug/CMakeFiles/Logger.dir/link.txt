@@ -1,0 +1,1 @@
+/usr/bin/c++   -pthread -g   CMakeFiles/Logger.dir/src/Log.cpp.o CMakeFiles/Logger.dir/src/Automated_test.cpp.o CMakeFiles/Logger.dir/src/Manual_test.cpp.o  -o Logger -lgtest -lgtest_main 

@@ -1,0 +1,3 @@
+/home/soikat/CLionProjects/Logger/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/soikat/CLionProjects/Logger/cmake-build-debug/CMakeFiles/Logger.dir
+/home/soikat/CLionProjects/Logger/cmake-build-debug/CMakeFiles/edit_cache.dir
